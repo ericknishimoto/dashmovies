@@ -17,9 +17,11 @@ Este é um curso de SQL aberto à toda comunidade e aqueles que desejam realizar
 
 Os encontros serão às terças e quintas às 09:00AM na [Twitch do Téo Me Why](https://www.twitch.tv/teomewhy).
 
-### Para quem NÃO é este curso
+## Fonte de dados
 
-O foco será a realização de consultas em um banco de dados que já possui dados. Não é o objetivo abordar temas que envolvam criação de banco de dados, bem como design e modelagem de arquitetura de dados.
+Descrição
+TMDB (The Movie Database) API
+https://www.themoviedb.org/documentation/api
 
 ## Sobre o professor
 
